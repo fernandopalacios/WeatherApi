@@ -1,4 +1,4 @@
-# BlazorWeatherApp
+# WeatherAPI
 This project is a RESTFUL API built in .NET 9, that provides endpoints for managing resources and performing CRUD operations.
 
 ## Features
