@@ -22,8 +22,13 @@ git clone repository https://github.com/fernandopalacios/WeatherApi.git
 ```
 dotnet restore
 ```
-
 3. Run the API
 ```
 dotnet run
 ```
+4. Authentication for this API is done by only providing an Username and a PIN. It does not require a Token and two users have been preloaded into the In Memory database for testing purposes:
+
+| Username  | PIN   | 
+|-----------|-------|
+| lpalacios | 93024 |
+| jperez    | 76253 |
